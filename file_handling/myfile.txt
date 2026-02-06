@@ -1,0 +1,16 @@
+Name: Alex Smith
+Age: 18
+City: Houston
+Email: alexsmith@gmail.com
+Name: Brian Smith
+Age: 20
+City: Dallas
+Email: brians@gmail.com
+Name: Brian Daniels
+Age: 15
+City: Alberta
+Email: briandaneil15@yahoo.com
+Name: Chandan Singh
+Age: 17
+City: Austin
+Email: chandansing17@yahoo.com
