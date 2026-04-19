@@ -9,6 +9,7 @@ Create namespaces (so names don’t collide)
 
 import module1
 from module2 import random_integer, random_picker
+from src.core import gcf, lcm
 
 print("Calling functions with values of 50 and 100")
 
@@ -28,3 +29,10 @@ print(number)
 
 rpschoice = random_picker(rps)
 print(rpschoice)
+
+num1, num2 = 14, 6
+
+call_gcf = gcf(num1, num2)
+call_lcm = lcm(num1, num2)
+
+print(call_gcf, call_lcm, sep="\n")
